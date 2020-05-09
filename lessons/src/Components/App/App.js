@@ -1,14 +1,14 @@
 import React from "react";
 // import PropTypes from "prop-types";
-import Lessons from "../Lessons/Lessons";
-import Sidebar from "../Sidebar/Sidebar";
-import Main from "../Main/Main";
-import Button from "react-bootstrap/Button";
+
+import Nav from "../Nav/Nav";
+//import Button from "react-bootstrap/Button";
 import Container from "react-bootstrap/Container";
-import Col from "react-bootstrap/Col";
-import Row from "react-bootstrap/Row";
-import Image from "react-bootstrap/Image";
-import icon from "../../images/react_icon_130845.svg";
+import Data from "../../Data/refs.json";
+// import Col from "react-bootstrap/Col";
+// import Row from "react-bootstrap/Row";
+// import Image from "react-bootstrap/Image";
+// import icon from "../../images/react_icon_130845.svg";
 
 import s from "./App.module.css";
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -17,21 +17,8 @@ const App = (props) => {
   return (
     <div className="wrapper">
       <Container fluid>
-        <Row className={s.row}>
-          <Col>
-            <Image className={s.logo} src={icon} rounded />
-          </Col>
-          <Col>
-            <Lessons />
-          </Col>
-          <Col>
-            <Main />
-          </Col>
-        </Row>
+        <Nav refs={Data} />
       </Container>
-      <div className="conteiner">
-        <Sidebar />
-      </div>
     </div>
   );
 };
@@ -39,3 +26,5 @@ const App = (props) => {
 // App.propTypes = {};
 
 export default App;
+
+// { "helpGitHab": "https://habr.com/ru/post/273897/" }

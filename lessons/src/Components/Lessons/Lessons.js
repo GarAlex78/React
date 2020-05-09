@@ -14,9 +14,6 @@ const Lessons = () => {
         </Tooltip>
       }
     >
-      {/* 
-      <Button variant="secondary">Tooltip on</Button> */}
-
       <Dropdown>
         <Dropdown.Toggle variant="success" id="dropdown-basic">
           Вебинар 1{/* Знакомство с React. JSX. Props. Коллекции. */}

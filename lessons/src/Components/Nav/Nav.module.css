@@ -1,0 +1,10 @@
+.row {
+  background-color: #3fb0ac;
+  align-items: center;
+}
+.col {
+}
+.logo {
+  width: 50px;
+  padding: 5px;
+}
