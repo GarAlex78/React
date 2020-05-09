@@ -13,5 +13,6 @@
   { "id": "veb-5", "label": ".psd", "percentage": 47 },
   { "id": "veb-6", "label": ".pdf", "percentage": 10 },
   { "id": "veb-7", "label": ".psd", "percentage": 47 },
-  { "id": "id-8", "label": ".docx", "percentage": 22 }
+  { "id": "id-8", "label": ".docx", "percentage": 22 },
+  { "helpGitHab": "https://habr.com/ru/post/273897/" }
 ]
