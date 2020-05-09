@@ -1,0 +1,36 @@
+.stats {
+  background-color: rgb(238, 237, 237);
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  border-top: 1px solid rgb(184, 183, 183);
+  align-self: center;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+.stats :last-child {
+  border-right: none;
+}
+.stats_list {
+  flex: 0 1 33.333%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid rgb(184, 183, 183);
+  padding: 20px 0;
+}
+.label {
+  color: grey;
+  font-size: 12px;
+  padding-bottom: 5px;
+}
+.label:first-letter {
+  text-transform: uppercase;
+}
+.quantity {
+  font-weight: 600;
+  font-size: 14px;
+}

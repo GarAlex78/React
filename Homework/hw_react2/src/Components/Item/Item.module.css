@@ -1,0 +1,28 @@
+.stats {
+  background-color: rgb(238, 237, 237);
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  align-self: center;
+}
+
+.stats_list {
+  flex: 0 1 33.333%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  padding: 20px 0;
+}
+.label {
+  font-size: 14px;
+  padding-bottom: 5px;
+  text-transform: lowercase;
+}
+
+.quantity {
+  font-weight: 500;
+  font-size: 20px;
+}

@@ -19,7 +19,6 @@ const App = (props) => {
       <Container fluid>
         <Row className={s.row}>
           <Col>
-            {/* {`${icon}/100px250`}  */}
             <Image className={s.logo} src={icon} rounded />
           </Col>
           <Col>

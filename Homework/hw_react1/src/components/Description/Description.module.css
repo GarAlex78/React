@@ -1,0 +1,20 @@
+.description {
+  margin-bottom: 20px;
+}
+.description p {
+  text-align: center;
+}
+.avatar {
+  border-radius: 50%;
+}
+.name {
+  font-size: 20px;
+  font-weight: 600;
+}
+.tag,
+.location {
+  color: grey;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1;
+}
