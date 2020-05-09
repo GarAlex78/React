@@ -1,7 +1,7 @@
 [
   {
     "id": "Вебинар1",
-    "video": "https://www.youtube.com/watch?v=c-HxK6iFKhY&feature=youtu.be",
+    "video": "https://www.youtube.com/watch?v=1c-HxK6iFKhY&feature=youtu.be",
     "notes": "http://fecore.net.ua/books/rq7s2k-react/lesson-01/",
     "homework": "https://github.com/goitacademy/react-homework/tree/master/homework-01",
     "code": "https://github.com/GarAlex78/React/tree/master/Homework",
@@ -10,7 +10,7 @@
   },
   {
     "id": "Вебинар2",
-    "video": "https://www.youtube.com/watch?v=qF50IdQmSyI&feature=youtu.be",
+    "video": "https://www.youtube.com/watch?v=1qF50IdQmSyI&feature=youtu.be",
     "notes": "http://fecore.net.ua/books/rq7s2k-react/lesson-02/",
     "homework": "https://github.com/goitacademy/react-homework/tree/master/homework-02",
     "code": "https://github.com/GarAlex78/React/tree/master/Homework",
@@ -19,7 +19,7 @@
   },
   {
     "id": "Вебинар4",
-    "video": "https://www.youtube.com/watch?v=EVrBc9KyxTA&feature=youtu.be",
+    "video": "https://www.youtube.com/watch?v=1EVrBc9KyxTA&feature=youtu.be",
     "notes": "http://fecore.net.ua/books/rq7s2k-react/lesson-03/",
     "homework": "https://github.com/goitacademy/react-homework/tree/master/homework-03",
     "code": "https://github.com/GarAlex78/React/tree/master/Homework",
@@ -28,7 +28,7 @@
   },
   {
     "id": "Вебинар5",
-    "video": "https://www.youtube.com/watch?v=q-BdMBHMtkE&feature=youtu.be",
+    "video": "https://www.youtube.com/watch?v=1q-BdMBHMtkE&feature=youtu.be",
     "notes": "http://fecore.net.ua/books/m5ph3r-javascript/module-05/",
     "homework": "#",
     "code": "#",
@@ -37,7 +37,7 @@
   },
   {
     "id": "Вебинар6",
-    "video": "https://www.youtube.com/watch?v=HXrbJTw_Rt0&feature=youtu.be",
+    "video": "https://www.youtube.com/watch?v=1HXrbJTw_Rt0&feature=youtu.be",
     "notes": "http://fecore.net.ua/books/rq7s2k-react/lesson-05/",
     "homework": "https://github.com/goitacademy/react-homework/tree/master/homework-03",
     "code": "https://github.com/GarAlex78/React/tree/master/Homework",
@@ -46,7 +46,7 @@
   },
   {
     "id": "Вебинар7",
-    "video": "https://www.youtube.com/watch?v=UzxHh7YFsVk&feature=youtu.be",
+    "video": "https://www.youtube.com/watch?v=1UzxHh7YFsVk&feature=youtu.be",
     "notes": "http://fecore.net.ua/books/rq7s2k-react/lesson-06/",
     "homework": "https://github.com/goitacademy/react-homework/tree/master/homework-03",
     "code": "https://github.com/GarAlex78/React/tree/master/Homework",
@@ -55,7 +55,7 @@
   },
   {
     "id": "Вебинар8",
-    "video": "https://www.youtube.com/watch?v=9WYYNKjCoEU&feature=youtu.be",
+    "video": "https://www.youtube.com/watch?v=19WYYNKjCoEU&feature=youtu.be",
     "notes": "http://fecore.net.ua/books/rq7s2k-react/lesson-09/",
     "homework": "https://github.com/goitacademy/react-homework/tree/master/homework-03",
     "code": "https://github.com/GarAlex78/React/tree/master/Homework",
@@ -64,7 +64,7 @@
   },
   {
     "id": "Вебинар9",
-    "video": "https://www.youtube.com/watch?v=zLhf5Z2StFg&feature=youtu.be",
+    "video": "https://www.youtube.com/watch?v=1zLhf5Z2StFg&feature=youtu.be",
     "notes": "http://fecore.net.ua/books/rq7s2k-react/lesson-09/",
     "homework": "https://github.com/goitacademy/react-homework/tree/master/homework-03",
     "code": "https://github.com/GarAlex78/React/tree/master/Homework",
@@ -73,7 +73,7 @@
   },
   {
     "id": "Вебинар10",
-    "video": "https://www.youtube.com/watch?v=58IzP2D4g64&feature=youtu.be",
+    "video": "https://www.youtube.com/watch?v=158IzP2D4g64&feature=youtu.be",
     "notes": "http://fecore.net.ua/books/rq7s2k-react/lesson-03/",
     "homework": "https://github.com/goitacademy/react-homework/tree/master/homework-03",
     "code": "https://github.com/GarAlex78/React/tree/master/Homework",
