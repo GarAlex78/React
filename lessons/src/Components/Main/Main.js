@@ -5,9 +5,9 @@ import OverlayTrigger from "react-bootstrap/OverlayTrigger";
 const Main = ({ data }) => {
   return (
     <OverlayTrigger
-      key="left"
-      placement="left"
-      overlay={<Tooltip id="tooltip-left">{data.tema}</Tooltip>}
+      key="top"
+      placement="top"
+      overlay={<Tooltip id="tooltip-top">{data.tema}</Tooltip>}
     >
       <Dropdown>
         <Dropdown.Toggle variant="success" id="dropdown-basic">

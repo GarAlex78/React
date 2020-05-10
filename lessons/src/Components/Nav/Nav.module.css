@@ -1,10 +1,14 @@
 .row {
   background-color: #3fb0ac;
-  align-items: center;
+  /* align-items: center; */
+  text-align: center;
+  justify-content: space-between;
 }
+
 .col {
+  padding-bottom: 50px;
 }
 .logo {
-  width: 50px;
-  padding: 5px;
+  width: 100px;
+  padding-top: 30px;
 }

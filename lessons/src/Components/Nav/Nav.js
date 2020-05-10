@@ -8,16 +8,20 @@ import s from "./Nav.module.css";
 
 const Nav = ({ refs }) => {
   return (
-    <Row className={s.row}>
-      <Col>
-        <Image className={s.logo} src={icon} rounded />
-      </Col>
-      {refs.map((item) => (
-        <Col>
-          <Main data={item} />{" "}
+    <>
+      <Row className={s.row}>
+        <Col className={s.col}>
+          <Image className={s.logo} src={icon} rounded />
         </Col>
-      ))}
-    </Row>
+      </Row>
+      <Row md={4} lg={6} className={s.row}>
+        {refs.map((item) => (
+          <Col className={s.col}>
+            <Main data={item} />{" "}
+          </Col>
+        ))}
+      </Row>
+    </>
   );
 };
 
