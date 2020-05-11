@@ -16,7 +16,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 const App = (props) => {
   return (
     <div className="wrapper">
-      <Container fluid>
+      <Container fluid className={s.container}>
         <Nav refs={Data} />
       </Container>
     </div>

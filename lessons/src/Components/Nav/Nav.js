@@ -11,10 +11,10 @@ const Nav = ({ refs }) => {
     <>
       <Row className={s.row}>
         <Col className={s.col}>
-          <Image className={s.logo} src={icon} rounded />
+          {/* <Image className={s.logo} src={icon} rounded /> */}
         </Col>
       </Row>
-      <Row md={4} lg={6} className={s.row}>
+      <Row md={9} className={s.row}>
         {refs.map((item) => (
           <Col className={s.col}>
             <Main data={item} />{" "}

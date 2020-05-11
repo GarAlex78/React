@@ -1,4 +1,8 @@
 .wrapper {
 }
-.conteiner {
+.container {
+  height: 100vh;
+  background: no-repeat 50% url(../../images/react_icon_130845.svg);
+  background-color: #173e43;
+  /* background-size: inherit; rgb(23,62,67)*/
 }
