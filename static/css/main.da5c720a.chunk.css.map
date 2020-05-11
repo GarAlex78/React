@@ -1,1 +1,0 @@
-{"version":3,"sources":["Nav.module.css"],"names":[],"mappings":"AAAA,gBACE,wBAAyB,CACzB,kBACF,CAGA,iBACE,UAAW,CACX,WACF","file":"main.da5c720a.chunk.css","sourcesContent":[".row {\r\n  background-color: #3fb0ac;\r\n  align-items: center;\r\n}\r\n.col {\r\n}\r\n.logo {\r\n  width: 50px;\r\n  padding: 5px;\r\n}\r\n"]}
