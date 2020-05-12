@@ -12,15 +12,24 @@ import Data from "../../Data/refs.json";
 
 import s from "./App.module.css";
 import "bootstrap/dist/css/bootstrap.min.css";
+let age = prompt("Слово?", "");
 
 const App = (props) => {
-  return (
-    <div className="wrapper">
-      <Container fluid className={s.container}>
-        <Nav refs={Data} />
-      </Container>
-    </div>
-  );
+  if (age === Data[7].smile) {
+    return (
+      <div className="wrapper">
+        <Container fluid className={s.container}>
+          <Nav refs={Data} />
+        </Container>
+      </div>
+    );
+  } else {
+    return (
+      <div className="wrapper">
+        <h4 className={s.sory}>Sorry, the site is still under construction...</h4>
+      </div>
+    );
+  }
 };
 
 // App.propTypes = {};
