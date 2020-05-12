@@ -1,8 +1,8 @@
 import React from "react";
 import Col from "react-bootstrap/Col";
 import Row from "react-bootstrap/Row";
-import Image from "react-bootstrap/Image";
-import icon from "../../images/react_icon_130845.svg";
+// import Image from "react-bootstrap/Image";
+// import icon from "../../images/react_icon_130845.svg";
 import Main from "../Main/Main";
 import s from "./Nav.module.css";
 

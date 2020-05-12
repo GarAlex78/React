@@ -3,7 +3,7 @@ import Dropdown from "react-bootstrap/Dropdown";
 import Tooltip from "react-bootstrap/Tooltip";
 import OverlayTrigger from "react-bootstrap/OverlayTrigger";
 
-import s from "./Main.module.css";
+// import s from "./Main.module.css";
 
 const Main = ({ data }) => {
   return (
