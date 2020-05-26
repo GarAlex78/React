@@ -1,0 +1,26 @@
+.transaction_history {
+  max-width: 900px;
+  font-family: "Roboto", sans-serif;
+  border-collapse: collapse;
+}
+.head {
+  width: 10%;
+  height: 40px;
+  color: #ffffff;
+  font-weight: 400;
+  background-color: #00bdd6;
+  text-transform: uppercase;
+}
+.white {
+  background-color: #ffffff;
+}
+.greey {
+  background-color: #edf1f4;
+}
+
+th {
+  border-right: 2px solid #bebdbd;
+}
+th:last-child {
+  border-right: 0;
+}
