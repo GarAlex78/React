@@ -1,17 +1,8 @@
 import React from "react";
 import Dropdown from "react-bootstrap/Dropdown";
-import Tooltip from "react-bootstrap/Tooltip";
-import OverlayTrigger from "react-bootstrap/OverlayTrigger";
-
-// import s from "./Main.module.css";
 
 const Main = ({ data }) => {
   return (
-    // <OverlayTrigger
-    //   key="top"
-    //   placement="top"
-    //   overlay={<Tooltip id="tooltip-top">{data.tema}</Tooltip>}
-    // >
     <Dropdown>
       <Dropdown.Toggle
         variant="success"
@@ -30,7 +21,6 @@ const Main = ({ data }) => {
         </Dropdown.Item>
       </Dropdown.Menu>
     </Dropdown>
-    // </OverlayTrigger>
   );
 };
 
