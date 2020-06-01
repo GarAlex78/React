@@ -22,15 +22,6 @@ const Main = ({ data }) => {
         </Dropdown.Toggle>
 
         <Dropdown.Menu style={{ backgroundColor: "#fae596" }}>
-          <Dropdown.Item href={data.video} target="_blank">
-            Video
-          </Dropdown.Item>
-          <Dropdown.Item href={data.notes} target="_blank">
-            Lecture notes
-          </Dropdown.Item>
-          <Dropdown.Item href={data.homework} target="_blank">
-            Homework
-          </Dropdown.Item>
           <Dropdown.Item href={data.code} target="_blank">
             Gh-code
           </Dropdown.Item>
