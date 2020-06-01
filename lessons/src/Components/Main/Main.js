@@ -7,30 +7,30 @@ import OverlayTrigger from "react-bootstrap/OverlayTrigger";
 
 const Main = ({ data }) => {
   return (
-    <OverlayTrigger
-      key="top"
-      placement="top"
-      overlay={<Tooltip id="tooltip-top">{data.tema}</Tooltip>}
-    >
-      <Dropdown>
-        <Dropdown.Toggle
-          variant="success"
-          id="dropdown-basic"
-          style={{ backgroundColor: "chocolate" }}
-        >
-          {data.id}
-        </Dropdown.Toggle>
+    // <OverlayTrigger
+    //   key="top"
+    //   placement="top"
+    //   overlay={<Tooltip id="tooltip-top">{data.tema}</Tooltip>}
+    // >
+    <Dropdown>
+      <Dropdown.Toggle
+        variant="success"
+        id="dropdown-basic"
+        style={{ backgroundColor: "chocolate" }}
+      >
+        {data.id}
+      </Dropdown.Toggle>
 
-        <Dropdown.Menu style={{ backgroundColor: "#fae596" }}>
-          <Dropdown.Item href={data.code} target="_blank">
-            Gh-code
-          </Dropdown.Item>
-          <Dropdown.Item href={data.pages} target="_blank">
-            Gh-pages
-          </Dropdown.Item>
-        </Dropdown.Menu>
-      </Dropdown>
-    </OverlayTrigger>
+      <Dropdown.Menu style={{ backgroundColor: "#fae596" }}>
+        <Dropdown.Item href={data.code} target="_blank">
+          Gh-code
+        </Dropdown.Item>
+        <Dropdown.Item href={data.pages} target="_blank">
+          Gh-pages
+        </Dropdown.Item>
+      </Dropdown.Menu>
+    </Dropdown>
+    // </OverlayTrigger>
   );
 };
 

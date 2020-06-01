@@ -1,84 +1,32 @@
 [
   {
-    "id": "Вебинар1",
-    "video": "#",
-    "notes": "#",
-    "homework": "#",
-    "code": "https://github.com/GarAlex78/React/tree/master/Homework/hw_react1",
-    "pages": "https://garalex78.github.io/ReactHw/hw1/index.html",
-    "tema": "React. JSX. Props."
+    "id": "hw1_1",
+    "code": "https://github.com/GarAlex78/React/tree/master/Homework/hw_react1_1",
+    "pages": "https://garalex78.github.io/ReactHw/hw1_1/index.html"
   },
   {
-    "id": "Вебинар2",
-    "video": "#",
-    "notes": "#",
-    "homework": "#",
-    "code": "https://github.com/GarAlex78/React/tree/master/Homework/hw_react2",
-    "pages": "https://garalex78.github.io/ReactHw/hw2/index.html",
-    "tema": "Стилизация"
+    "id": "hw1_2",
+    "code": "https://github.com/GarAlex78/React/tree/master/Homework/hw_react1_2",
+    "pages": "https://garalex78.github.io/ReactHw/hw1_2/index.html"
   },
   {
-    "id": "Вебинар4",
-    "video": "#",
-    "notes": "#",
-    "homework": "#",
-    "code": "https://github.com/GarAlex78/React/tree/master/Homework/hw_react3",
-    "pages": "https://garalex78.github.io/ReactHw/hw3/index.html",
-    "tema": "События и состояние"
+    "id": "hw1_3",
+    "code": "https://github.com/GarAlex78/React/tree/master/Homework/hw_react1_3",
+    "pages": "https://garalex78.github.io/ReactHw/hw1_3/index.html"
   },
   {
-    "id": "Вебинар5",
-    "video": "#",
-    "notes": "#",
-    "homework": "#",
-    "code": "#",
-    "pages": "#",
-    "tema": "Разбор теории "
+    "id": "hw1_4",
+    "code": "https://github.com/GarAlex78/React/tree/master/Homework/hw_react1_4",
+    "pages": "https://garalex78.github.io/ReactHw/hw1_4/index.html"
   },
   {
-    "id": "Вебинар6",
-    "video": "#",
-    "notes": "#",
-    "homework": "#",
-    "code": "https://github.com/GarAlex78/React/tree/master/Homework",
-    "pages": "https://garalex78.github.io/React/",
-    "tema": "Жизненный цикл"
+    "id": "hw2_1",
+    "code": "https://github.com/GarAlex78/React/tree/master/Homework/hw_react2_1",
+    "pages": "https://garalex78.github.io/ReactHw/hw2_1/index.html"
   },
   {
-    "id": "Вебинар7",
-    "video": "#",
-    "notes": "#",
-    "homework": "#",
-    "code": "https://github.com/GarAlex78/React/tree/master/Homework",
-    "pages": "https://garalex78.github.io/React/",
-    "tema": "Работа с API"
-  },
-  {
-    "id": "Вебинар8",
-    "video": "#",
-    "notes": "#",
-    "homework": "#",
-    "code": "https://github.com/GarAlex78/React/tree/master/Homework",
-    "pages": "https://garalex78.github.io/React/",
-    "tema": "Паттерны и контекст"
-  },
-  {
-    "id": "Вебинар9",
-    "video": "#",
-    "notes": "#",
-    "homework": "#",
-    "code": "https://github.com/GarAlex78/React/tree/master/Homework",
-    "pages": "https://garalex78.github.io/React/",
-    "tema": "Контекст",
-    "smile": "Smile"
-  },
-  {
-    "id": "Вебинар10",
-    "video": "#",
-    "notes": "#",
-    "homework": "#",
-    "code": "https://github.com/GarAlex78/React/tree/master/Homework",
-    "pages": "https://garalex78.github.io/React/",
-    "tema": "Вебинар Q&A"
+    "id": "hw2_2",
+    "code": "https://github.com/GarAlex78/React/tree/master/Homework/hw_react2_2",
+    "pages": "https://garalex78.github.io/ReactHw/hw2_2/index.html"
   }
 ]
