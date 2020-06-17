@@ -1,0 +1,57 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+.label {
+  display: block;
+  font-size: small;
+}
+.fieldset {
+  margin-left: 30px;
+  display: inline-block;
+  border-radius: 10px;
+  background: rgb(100, 100, 100)
+    radial-gradient(
+      circle at 50% 0,
+      rgba(255, 255, 255, 0.65),
+      rgba(255, 255, 255, 0.35)
+    );
+  box-shadow: inset rgba(0, 0, 0, 0.6) 0 -3px 8px,
+    inset rgba(252, 255, 255, 0.7) 0 3px 8px, rgba(0, 0, 0, 0.8) 0 3px 8px -3px;
+
+  /* box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3),
+    -23px 0 20px -23px rgba(0, 0, 0, 0.8), 23px 0 20px -23px rgba(0, 0, 0, 0.8),
+    0 0 40px rgba(0, 0, 0, 0.1) inset;
+  border: none; */
+}
+.addContact {
+  border-radius: 10px;
+  background: rgb(100, 100, 100)
+    radial-gradient(
+      circle at 0 0,
+      rgba(255, 255, 255, 0.65),
+      rgba(255, 255, 255, 0.35)
+    );
+  box-shadow: inset rgba(0, 0, 0, 0.5) -3px -3px 8px,
+    inset rgba(255, 255, 255, 0.9) 3px 3px 8px,
+    rgba(0, 0, 0, 0.8) 3px 3px 8px -3px;
+
+  border: 1px solid slategray;
+
+  padding: 3px 4px;
+  /* box-shadow: 0px 5px 7px 0px #bbb7b5 inset, -2px 2px 2px 1px #474343; */
+  transition: 0.8s;
+}
+/* .addContact:hover {
+  border: none;
+  box-shadow: 0px 5px 7px 0px #bbb7b5 inset;
+} */
+.inputName {
+  text-transform: capitalize;
+}
+.input {
+  border-radius: 8px;
+  background-color: rgb(217, 222, 226);
+}
+.error {
+  margin: 0;
+}
